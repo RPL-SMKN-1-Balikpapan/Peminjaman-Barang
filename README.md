@@ -1,5 +1,7 @@
 Website Peminjaman Barang
-Contributor
+
+
+Contributor:
 1. Gletzer Julio Ivanees
 2. Putra Abdul Azis
 3. Ramadhan Naiel
